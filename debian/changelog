@@ -1,5 +1,13 @@
-template-repository (1.0-1) unstable; urgency=medium
+libdist-zilla-plugin-signature-perl (1.100930-2) unstable; urgency=medium
 
-  * Initial release
+  * Team upload.
+  * Source-only re-upload.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- gregor herrmann <gregoa@debian.org>  Sun, 05 Dec 2021 01:38:52 +0100
+
+libdist-zilla-plugin-signature-perl (1.100930-1) unstable; urgency=medium
+
+  * Initial release. (Closes: 997838)
+
+ -- Dominique Dumont <dod@debian.org>  Tue, 26 Oct 2021 11:56:58 +0200
